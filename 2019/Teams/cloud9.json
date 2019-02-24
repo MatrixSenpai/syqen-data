@@ -1,0 +1,70 @@
+{
+  "name"     : "",
+  "acronym"  : "",
+  "icon"     : "",
+
+  "twitter"  : "",
+  "youtube"  : "",
+  "discord"  : "",
+  "subreddit": "",
+  "twitch"   : "",
+  "website"  : "",
+
+  "currentRoster": [
+    {
+      "handle"  : "",
+      "name"    : "",
+      "position": "top",
+
+      "icon"    : "",
+
+      "twitter" : "",
+      "youtube" : "",
+      "twitch"  : ""
+    },
+    {
+      "handle"  : "",
+      "name"    : "",
+      "position": "jungle",
+
+      "icon"    : "",
+
+      "twitter" : "",
+      "youtube" : "",
+      "twitch"  : ""
+    },
+    {
+      "handle"  : "",
+      "name"    : "",
+      "position": "middle",
+
+      "icon"    : "",
+
+      "twitter" : "",
+      "youtube" : "",
+      "twitch"  : ""
+    },
+    {
+      "handle"  : "",
+      "name"    : "",
+      "position": "bottom",
+
+      "icon"    : "",
+
+      "twitter" : "",
+      "youtube" : "",
+      "twitch"  : ""
+    },
+    {
+      "handle"  : "",
+      "name"    : "",
+      "position": "support",
+
+      "icon"    : "",
+
+      "twitter" : "",
+      "youtube" : "",
+      "twitch"  : ""
+    },
+  ]
+}

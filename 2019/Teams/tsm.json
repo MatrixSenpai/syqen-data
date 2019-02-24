@@ -1,0 +1,70 @@
+{
+  "name"     : "Team SoloMid",
+  "acronym"  : "TSM",
+  "icon"     : "Team SoloMid",
+
+  "twitter"  : "",
+  "youtube"  : "",
+  "discord"  : "",
+  "subreddit": "",
+  "twitch"   : "",
+  "website"  : "",
+
+  "currentRoster": [
+    {
+      "handle"  : "Broken Blade",
+      "name"    : "Sergen Çelik",
+      "position": "top",
+
+      "icon"    : "https://nexus.leagueoflegends.com/wp-content/uploads/2019/01/TSM-LCS-BROKENBLADE_y1h07zly6dwb11sox8s9.png",
+
+      "twitter" : "",
+      "youtube" : "",
+      "twitch"  : ""
+    },
+    {
+      "handle"  : "",
+      "name"    : "",
+      "position": "jungle",
+
+      "icon"    : "",
+
+      "twitter" : "",
+      "youtube" : "",
+      "twitch"  : ""
+    },
+    {
+      "handle"  : "",
+      "name"    : "",
+      "position": "middle",
+
+      "icon"    : "",
+
+      "twitter" : "",
+      "youtube" : "",
+      "twitch"  : ""
+    },
+    {
+      "handle"  : "",
+      "name"    : "",
+      "position": "bottom",
+
+      "icon"    : "",
+
+      "twitter" : "",
+      "youtube" : "",
+      "twitch"  : ""
+    },
+    {
+      "handle"  : "",
+      "name"    : "",
+      "position": "support",
+
+      "icon"    : "",
+
+      "twitter" : "",
+      "youtube" : "",
+      "twitch"  : ""
+    },
+  ]
+}
