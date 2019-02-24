@@ -1,0 +1,13 @@
+{
+  "year"  : 2019,
+  "start" : "01/26/2019",
+  "end"   : "",
+  "events": [
+    {
+      "region" : "NA",
+      "name"   : "Spring Split",
+      "start"  : "01/26/2019",
+      "end"    : "03/24/2019"
+    }
+  ]
+}
