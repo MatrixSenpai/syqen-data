@@ -1,0 +1,18 @@
+[
+  {
+    "blueTeam"    : "TSM",
+    "blueTeamWins": 0,
+
+    "redTeam"     : "CG",
+    "redTeamWins" : 1,
+
+    "season"      : 2019,
+    "event"       : "Spring Split",
+    "week"        : 1,
+    "day"         : 1,
+
+    "format"      : "bo1",
+
+    "gameTime"    : "01/26/2019 1400"
+  }
+]
