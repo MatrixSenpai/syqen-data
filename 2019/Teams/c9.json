@@ -1,6 +1,6 @@
 {
-  "name"     : "",
-  "acronym"  : "",
+  "name"     : "Cloud9",
+  "acronym"  : "C9",
   "icon"     : "",
 
   "twitter"  : "",
@@ -12,7 +12,7 @@
 
   "currentRoster": [
     {
-      "handle"  : "",
+      "handle"  : "Licorice",
       "name"    : "",
       "position": "top",
 
@@ -23,7 +23,7 @@
       "twitch"  : ""
     },
     {
-      "handle"  : "",
+      "handle"  : "Svenskeren",
       "name"    : "",
       "position": "jungle",
 
@@ -34,7 +34,7 @@
       "twitch"  : ""
     },
     {
-      "handle"  : "",
+      "handle"  : "Nisqy",
       "name"    : "",
       "position": "middle",
 
@@ -45,7 +45,7 @@
       "twitch"  : ""
     },
     {
-      "handle"  : "",
+      "handle"  : "Sneaky",
       "name"    : "",
       "position": "bottom",
 
@@ -56,7 +56,7 @@
       "twitch"  : ""
     },
     {
-      "handle"  : "",
+      "handle"  : "Zeyzal",
       "name"    : "",
       "position": "support",
 

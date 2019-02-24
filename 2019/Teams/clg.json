@@ -1,6 +1,6 @@
 {
-  "name"     : "",
-  "acronym"  : "",
+  "name"     : "Counter Logic Gaming",
+  "acronym"  : "CLG",
   "icon"     : "",
 
   "twitter"  : "",
@@ -12,7 +12,7 @@
 
   "currentRoster": [
     {
-      "handle"  : "",
+      "handle"  : "Darshan",
       "name"    : "",
       "position": "top",
 
@@ -23,7 +23,7 @@
       "twitch"  : ""
     },
     {
-      "handle"  : "",
+      "handle"  : "Wiggily",
       "name"    : "",
       "position": "jungle",
 
@@ -34,7 +34,7 @@
       "twitch"  : ""
     },
     {
-      "handle"  : "",
+      "handle"  : "PowerOfEvil",
       "name"    : "",
       "position": "middle",
 
@@ -45,7 +45,7 @@
       "twitch"  : ""
     },
     {
-      "handle"  : "",
+      "handle"  : "Stixxay",
       "name"    : "",
       "position": "bottom",
 
@@ -56,7 +56,7 @@
       "twitch"  : ""
     },
     {
-      "handle"  : "",
+      "handle"  : "Biofrost",
       "name"    : "",
       "position": "support",
 
