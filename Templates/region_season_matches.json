@@ -1,0 +1,2999 @@
+{
+  "season": 0,
+  "region": "",
+  "name"  : "",
+  "splits": {
+    "spring": {
+      "1": {
+        "1": [
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 1,
+            "day"         : 1,
+
+            "format"      : "",
+
+            "gameTime"    : "14"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 1,
+            "day"         : 1,
+
+            "format"      : "",
+
+            "gameTime"    : "15"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 1,
+            "day"         : 1,
+
+            "format"      : "",
+
+            "gameTime"    : "16"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 1,
+            "day"         : 1,
+
+            "format"      : "",
+
+            "gameTime"    : "17"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 1,
+            "day"         : 1,
+
+            "format"      : "",
+
+            "gameTime"    : "18"
+          },
+        ],
+        "2": [
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 1,
+            "day"         : 2,
+
+            "format"      : "",
+
+            "gameTime"    : "12"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 1,
+            "day"         : 2,
+
+            "format"      : "",
+
+            "gameTime"    : "13"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 1,
+            "day"         : 2,
+
+            "format"      : "",
+
+            "gameTime"    : "14"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 1,
+            "day"         : 2,
+
+            "format"      : "",
+
+            "gameTime"    : "15"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 1,
+            "day"         : 2,
+
+            "format"      : "",
+
+            "gameTime"    : "16"
+          },
+        ]
+      },
+      "2": {
+        "1": [
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 2,
+            "day"         : 1,
+
+            "format"      : "",
+
+            "gameTime"    : "14"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 2,
+            "day"         : 1,
+
+            "format"      : "",
+
+            "gameTime"    : "15"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 2,
+            "day"         : 1,
+
+            "format"      : "",
+
+            "gameTime"    : "16"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 2,
+            "day"         : 1,
+
+            "format"      : "",
+
+            "gameTime"    : "17"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 2,
+            "day"         : 1,
+
+            "format"      : "",
+
+            "gameTime"    : "18"
+          },
+        ],
+        "2": [
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 2,
+            "day"         : 2,
+
+            "format"      : "",
+
+            "gameTime"    : "12"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 2,
+            "day"         : 2,
+
+            "format"      : "",
+
+            "gameTime"    : "13"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 2,
+            "day"         : 2,
+
+            "format"      : "",
+
+            "gameTime"    : "14"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 2,
+            "day"         : 2,
+
+            "format"      : "",
+
+            "gameTime"    : "15"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 2,
+            "day"         : 2,
+
+            "format"      : "",
+
+            "gameTime"    : "16"
+          },
+        ]
+      },
+      "3": {
+        "1": [
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 3,
+            "day"         : 1,
+
+            "format"      : "",
+
+            "gameTime"    : "14"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 3,
+            "day"         : 1,
+
+            "format"      : "",
+
+            "gameTime"    : "15"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 3,
+            "day"         : 1,
+
+            "format"      : "",
+
+            "gameTime"    : "16"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 3,
+            "day"         : 1,
+
+            "format"      : "",
+
+            "gameTime"    : "17"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 3,
+            "day"         : 1,
+
+            "format"      : "",
+
+            "gameTime"    : "18"
+          },
+        ],
+        "2": [
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 3,
+            "day"         : 2,
+
+            "format"      : "",
+
+            "gameTime"    : "12"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 3,
+            "day"         : 2,
+
+            "format"      : "",
+
+            "gameTime"    : "13"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 3,
+            "day"         : 2,
+
+            "format"      : "",
+
+            "gameTime"    : "14"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 3,
+            "day"         : 2,
+
+            "format"      : "",
+
+            "gameTime"    : "15"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 3,
+            "day"         : 2,
+
+            "format"      : "",
+
+            "gameTime"    : "16"
+          },
+        ]
+      },
+      "4": {
+        "1": [
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 4,
+            "day"         : 1,
+
+            "format"      : "",
+
+            "gameTime"    : "14"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 4,
+            "day"         : 1,
+
+            "format"      : "",
+
+            "gameTime"    : "15"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 4,
+            "day"         : 1,
+
+            "format"      : "",
+
+            "gameTime"    : "16"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 4,
+            "day"         : 1,
+
+            "format"      : "",
+
+            "gameTime"    : "17"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 4,
+            "day"         : 1,
+
+            "format"      : "",
+
+            "gameTime"    : "18"
+          },
+        ],
+        "2": [
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 4,
+            "day"         : 2,
+
+            "format"      : "",
+
+            "gameTime"    : "12"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 4,
+            "day"         : 2,
+
+            "format"      : "",
+
+            "gameTime"    : "13"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 4,
+            "day"         : 2,
+
+            "format"      : "",
+
+            "gameTime"    : "14"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 4,
+            "day"         : 2,
+
+            "format"      : "",
+
+            "gameTime"    : "15"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 4,
+            "day"         : 2,
+
+            "format"      : "",
+
+            "gameTime"    : "16"
+          },
+        ]
+      },
+      "5": {
+        "1": [
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 5,
+            "day"         : 1,
+
+            "format"      : "",
+
+            "gameTime"    : "14"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 5,
+            "day"         : 1,
+
+            "format"      : "",
+
+            "gameTime"    : "15"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 5,
+            "day"         : 1,
+
+            "format"      : "",
+
+            "gameTime"    : "16"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 5,
+            "day"         : 1,
+
+            "format"      : "",
+
+            "gameTime"    : "17"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 5,
+            "day"         : 1,
+
+            "format"      : "",
+
+            "gameTime"    : "18"
+          },
+        ],
+        "2": [
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 5,
+            "day"         : 2,
+
+            "format"      : "",
+
+            "gameTime"    : "12"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 5,
+            "day"         : 2,
+
+            "format"      : "",
+
+            "gameTime"    : "13"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 5,
+            "day"         : 2,
+
+            "format"      : "",
+
+            "gameTime"    : "14"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 5,
+            "day"         : 2,
+
+            "format"      : "",
+
+            "gameTime"    : "15"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 5,
+            "day"         : 2,
+
+            "format"      : "",
+
+            "gameTime"    : "16"
+          },
+        ]
+      },
+      "6": {
+        "1": [
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 6,
+            "day"         : 1,
+
+            "format"      : "",
+
+            "gameTime"    : "14"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 6,
+            "day"         : 1,
+
+            "format"      : "",
+
+            "gameTime"    : "15"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 6,
+            "day"         : 1,
+
+            "format"      : "",
+
+            "gameTime"    : "16"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 6,
+            "day"         : 1,
+
+            "format"      : "",
+
+            "gameTime"    : "17"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 6,
+            "day"         : 1,
+
+            "format"      : "",
+
+            "gameTime"    : "18"
+          },
+        ],
+        "2": [
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 6,
+            "day"         : 2,
+
+            "format"      : "",
+
+            "gameTime"    : "12"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 6,
+            "day"         : 2,
+
+            "format"      : "",
+
+            "gameTime"    : "13"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 6,
+            "day"         : 2,
+
+            "format"      : "",
+
+            "gameTime"    : "14"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 6,
+            "day"         : 2,
+
+            "format"      : "",
+
+            "gameTime"    : "15"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 6,
+            "day"         : 2,
+
+            "format"      : "",
+
+            "gameTime"    : "16"
+          },
+        ]
+      },
+      "7": {
+        "1": [
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 7,
+            "day"         : 1,
+
+            "format"      : "",
+
+            "gameTime"    : "14"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 7,
+            "day"         : 1,
+
+            "format"      : "",
+
+            "gameTime"    : "15"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 7,
+            "day"         : 1,
+
+            "format"      : "",
+
+            "gameTime"    : "16"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 7,
+            "day"         : 1,
+
+            "format"      : "",
+
+            "gameTime"    : "17"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 7,
+            "day"         : 1,
+
+            "format"      : "",
+
+            "gameTime"    : "18"
+          },
+        ],
+        "2": [
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 7,
+            "day"         : 2,
+
+            "format"      : "",
+
+            "gameTime"    : "12"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 7,
+            "day"         : 2,
+
+            "format"      : "",
+
+            "gameTime"    : "13"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 7,
+            "day"         : 2,
+
+            "format"      : "",
+
+            "gameTime"    : "14"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 7,
+            "day"         : 2,
+
+            "format"      : "",
+
+            "gameTime"    : "15"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 7,
+            "day"         : 2,
+
+            "format"      : "",
+
+            "gameTime"    : "16"
+          },
+        ]
+      },
+      "8": {
+        "1": [
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 8,
+            "day"         : 1,
+
+            "format"      : "",
+
+            "gameTime"    : "14"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 8,
+            "day"         : 1,
+
+            "format"      : "",
+
+            "gameTime"    : "15"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 8,
+            "day"         : 1,
+
+            "format"      : "",
+
+            "gameTime"    : "16"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 8,
+            "day"         : 1,
+
+            "format"      : "",
+
+            "gameTime"    : "17"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 8,
+            "day"         : 1,
+
+            "format"      : "",
+
+            "gameTime"    : "18"
+          },
+        ],
+        "2": [
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 8,
+            "day"         : 2,
+
+            "format"      : "",
+
+            "gameTime"    : "12"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 8,
+            "day"         : 2,
+
+            "format"      : "",
+
+            "gameTime"    : "13"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 8,
+            "day"         : 2,
+
+            "format"      : "",
+
+            "gameTime"    : "14"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 8,
+            "day"         : 2,
+
+            "format"      : "",
+
+            "gameTime"    : "15"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 8,
+            "day"         : 2,
+
+            "format"      : "",
+
+            "gameTime"    : "16"
+          },
+        ]
+      },
+      "9": {
+        "1": [
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 9,
+            "day"         : 1,
+
+            "format"      : "",
+
+            "gameTime"    : "14"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 9,
+            "day"         : 1,
+
+            "format"      : "",
+
+            "gameTime"    : "15"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 9,
+            "day"         : 1,
+
+            "format"      : "",
+
+            "gameTime"    : "16"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 9,
+            "day"         : 1,
+
+            "format"      : "",
+
+            "gameTime"    : "17"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 9,
+            "day"         : 1,
+
+            "format"      : "",
+
+            "gameTime"    : "18"
+          },
+        ],
+        "2": [
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 9,
+            "day"         : 2,
+
+            "format"      : "",
+
+            "gameTime"    : "12"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 9,
+            "day"         : 2,
+
+            "format"      : "",
+
+            "gameTime"    : "13"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 9,
+            "day"         : 2,
+
+            "format"      : "",
+
+            "gameTime"    : "14"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 9,
+            "day"         : 2,
+
+            "format"      : "",
+
+            "gameTime"    : "15"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 9,
+            "day"         : 2,
+
+            "format"      : "",
+
+            "gameTime"    : "16"
+          },
+        ]
+      }
+    },
+    "summer": {
+      "1": {
+        "1": [
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 1,
+            "day"         : 1,
+
+            "format"      : "",
+
+            "gameTime"    : "14"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 1,
+            "day"         : 1,
+
+            "format"      : "",
+
+            "gameTime"    : "15"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 1,
+            "day"         : 1,
+
+            "format"      : "",
+
+            "gameTime"    : "16"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 1,
+            "day"         : 1,
+
+            "format"      : "",
+
+            "gameTime"    : "17"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 1,
+            "day"         : 1,
+
+            "format"      : "",
+
+            "gameTime"    : "18"
+          },
+        ],
+        "2": [
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 1,
+            "day"         : 2,
+
+            "format"      : "",
+
+            "gameTime"    : "12"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 1,
+            "day"         : 2,
+
+            "format"      : "",
+
+            "gameTime"    : "13"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 1,
+            "day"         : 2,
+
+            "format"      : "",
+
+            "gameTime"    : "14"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 1,
+            "day"         : 2,
+
+            "format"      : "",
+
+            "gameTime"    : "15"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 1,
+            "day"         : 2,
+
+            "format"      : "",
+
+            "gameTime"    : "16"
+          },
+        ]
+      },
+      "2": {
+        "1": [
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 2,
+            "day"         : 1,
+
+            "format"      : "",
+
+            "gameTime"    : "14"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 2,
+            "day"         : 1,
+
+            "format"      : "",
+
+            "gameTime"    : "15"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 2,
+            "day"         : 1,
+
+            "format"      : "",
+
+            "gameTime"    : "16"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 2,
+            "day"         : 1,
+
+            "format"      : "",
+
+            "gameTime"    : "17"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 2,
+            "day"         : 1,
+
+            "format"      : "",
+
+            "gameTime"    : "18"
+          },
+        ],
+        "2": [
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 2,
+            "day"         : 2,
+
+            "format"      : "",
+
+            "gameTime"    : "12"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 2,
+            "day"         : 2,
+
+            "format"      : "",
+
+            "gameTime"    : "13"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 2,
+            "day"         : 2,
+
+            "format"      : "",
+
+            "gameTime"    : "14"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 2,
+            "day"         : 2,
+
+            "format"      : "",
+
+            "gameTime"    : "15"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 2,
+            "day"         : 2,
+
+            "format"      : "",
+
+            "gameTime"    : "16"
+          },
+        ]
+      },
+      "3": {
+        "1": [
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 3,
+            "day"         : 1,
+
+            "format"      : "",
+
+            "gameTime"    : "14"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 3,
+            "day"         : 1,
+
+            "format"      : "",
+
+            "gameTime"    : "15"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 3,
+            "day"         : 1,
+
+            "format"      : "",
+
+            "gameTime"    : "16"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 3,
+            "day"         : 1,
+
+            "format"      : "",
+
+            "gameTime"    : "17"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 3,
+            "day"         : 1,
+
+            "format"      : "",
+
+            "gameTime"    : "18"
+          },
+        ],
+        "2": [
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 3,
+            "day"         : 2,
+
+            "format"      : "",
+
+            "gameTime"    : "12"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 3,
+            "day"         : 2,
+
+            "format"      : "",
+
+            "gameTime"    : "13"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 3,
+            "day"         : 2,
+
+            "format"      : "",
+
+            "gameTime"    : "14"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 3,
+            "day"         : 2,
+
+            "format"      : "",
+
+            "gameTime"    : "15"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 3,
+            "day"         : 2,
+
+            "format"      : "",
+
+            "gameTime"    : "16"
+          },
+        ]
+      },
+      "4": {
+        "1": [
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 4,
+            "day"         : 1,
+
+            "format"      : "",
+
+            "gameTime"    : "14"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 4,
+            "day"         : 1,
+
+            "format"      : "",
+
+            "gameTime"    : "15"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 4,
+            "day"         : 1,
+
+            "format"      : "",
+
+            "gameTime"    : "16"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 4,
+            "day"         : 1,
+
+            "format"      : "",
+
+            "gameTime"    : "17"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 4,
+            "day"         : 1,
+
+            "format"      : "",
+
+            "gameTime"    : "18"
+          },
+        ],
+        "2": [
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 4,
+            "day"         : 2,
+
+            "format"      : "",
+
+            "gameTime"    : "12"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 4,
+            "day"         : 2,
+
+            "format"      : "",
+
+            "gameTime"    : "13"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 4,
+            "day"         : 2,
+
+            "format"      : "",
+
+            "gameTime"    : "14"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 4,
+            "day"         : 2,
+
+            "format"      : "",
+
+            "gameTime"    : "15"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 4,
+            "day"         : 2,
+
+            "format"      : "",
+
+            "gameTime"    : "16"
+          },
+        ]
+      },
+      "5": {
+        "1": [
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 5,
+            "day"         : 1,
+
+            "format"      : "",
+
+            "gameTime"    : "14"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 5,
+            "day"         : 1,
+
+            "format"      : "",
+
+            "gameTime"    : "15"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 5,
+            "day"         : 1,
+
+            "format"      : "",
+
+            "gameTime"    : "16"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 5,
+            "day"         : 1,
+
+            "format"      : "",
+
+            "gameTime"    : "17"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 5,
+            "day"         : 1,
+
+            "format"      : "",
+
+            "gameTime"    : "18"
+          },
+        ],
+        "2": [
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 5,
+            "day"         : 2,
+
+            "format"      : "",
+
+            "gameTime"    : "12"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 5,
+            "day"         : 2,
+
+            "format"      : "",
+
+            "gameTime"    : "13"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 5,
+            "day"         : 2,
+
+            "format"      : "",
+
+            "gameTime"    : "14"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 5,
+            "day"         : 2,
+
+            "format"      : "",
+
+            "gameTime"    : "15"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 5,
+            "day"         : 2,
+
+            "format"      : "",
+
+            "gameTime"    : "16"
+          },
+        ]
+      },
+      "6": {
+        "1": [
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 6,
+            "day"         : 1,
+
+            "format"      : "",
+
+            "gameTime"    : "14"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 6,
+            "day"         : 1,
+
+            "format"      : "",
+
+            "gameTime"    : "15"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 6,
+            "day"         : 1,
+
+            "format"      : "",
+
+            "gameTime"    : "16"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 6,
+            "day"         : 1,
+
+            "format"      : "",
+
+            "gameTime"    : "17"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 6,
+            "day"         : 1,
+
+            "format"      : "",
+
+            "gameTime"    : "18"
+          },
+        ],
+        "2": [
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 6,
+            "day"         : 2,
+
+            "format"      : "",
+
+            "gameTime"    : "12"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 6,
+            "day"         : 2,
+
+            "format"      : "",
+
+            "gameTime"    : "13"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 6,
+            "day"         : 2,
+
+            "format"      : "",
+
+            "gameTime"    : "14"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 6,
+            "day"         : 2,
+
+            "format"      : "",
+
+            "gameTime"    : "15"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 6,
+            "day"         : 2,
+
+            "format"      : "",
+
+            "gameTime"    : "16"
+          },
+        ]
+      },
+      "7": {
+        "1": [
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 7,
+            "day"         : 1,
+
+            "format"      : "",
+
+            "gameTime"    : "14"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 7,
+            "day"         : 1,
+
+            "format"      : "",
+
+            "gameTime"    : "15"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 7,
+            "day"         : 1,
+
+            "format"      : "",
+
+            "gameTime"    : "16"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 7,
+            "day"         : 1,
+
+            "format"      : "",
+
+            "gameTime"    : "17"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 7,
+            "day"         : 1,
+
+            "format"      : "",
+
+            "gameTime"    : "18"
+          },
+        ],
+        "2": [
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 7,
+            "day"         : 2,
+
+            "format"      : "",
+
+            "gameTime"    : "12"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 7,
+            "day"         : 2,
+
+            "format"      : "",
+
+            "gameTime"    : "13"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 7,
+            "day"         : 2,
+
+            "format"      : "",
+
+            "gameTime"    : "14"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 7,
+            "day"         : 2,
+
+            "format"      : "",
+
+            "gameTime"    : "15"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 7,
+            "day"         : 2,
+
+            "format"      : "",
+
+            "gameTime"    : "16"
+          },
+        ]
+      },
+      "8": {
+        "1": [
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 8,
+            "day"         : 1,
+
+            "format"      : "",
+
+            "gameTime"    : "14"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 8,
+            "day"         : 1,
+
+            "format"      : "",
+
+            "gameTime"    : "15"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 8,
+            "day"         : 1,
+
+            "format"      : "",
+
+            "gameTime"    : "16"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 8,
+            "day"         : 1,
+
+            "format"      : "",
+
+            "gameTime"    : "17"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 8,
+            "day"         : 1,
+
+            "format"      : "",
+
+            "gameTime"    : "18"
+          },
+        ],
+        "2": [
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 8,
+            "day"         : 2,
+
+            "format"      : "",
+
+            "gameTime"    : "12"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 8,
+            "day"         : 2,
+
+            "format"      : "",
+
+            "gameTime"    : "13"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 8,
+            "day"         : 2,
+
+            "format"      : "",
+
+            "gameTime"    : "14"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 8,
+            "day"         : 2,
+
+            "format"      : "",
+
+            "gameTime"    : "15"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 8,
+            "day"         : 2,
+
+            "format"      : "",
+
+            "gameTime"    : "16"
+          },
+        ]
+      },
+      "9": {
+        "1": [
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 9,
+            "day"         : 1,
+
+            "format"      : "",
+
+            "gameTime"    : "14"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 9,
+            "day"         : 1,
+
+            "format"      : "",
+
+            "gameTime"    : "15"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 9,
+            "day"         : 1,
+
+            "format"      : "",
+
+            "gameTime"    : "16"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 9,
+            "day"         : 1,
+
+            "format"      : "",
+
+            "gameTime"    : "17"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 9,
+            "day"         : 1,
+
+            "format"      : "",
+
+            "gameTime"    : "18"
+          },
+        ],
+        "2": [
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 9,
+            "day"         : 2,
+
+            "format"      : "",
+
+            "gameTime"    : "12"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 9,
+            "day"         : 2,
+
+            "format"      : "",
+
+            "gameTime"    : "13"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 9,
+            "day"         : 2,
+
+            "format"      : "",
+
+            "gameTime"    : "14"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 9,
+            "day"         : 2,
+
+            "format"      : "",
+
+            "gameTime"    : "15"
+          },
+          {
+            "blueTeam"    : "",
+            "blueTeamWins": 0,
+
+            "redTeam"     : "",
+            "redTeamWins" : 0,
+
+            "season"      : 0,
+            "event"       : "",
+            "week"        : 9,
+            "day"         : 2,
+
+            "format"      : "",
+
+            "gameTime"    : "16"
+          },
+        ]
+      }
+    }
+  }
+}

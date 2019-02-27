@@ -1,0 +1,14 @@
+{
+  "year"  : 2019,
+  "name"  : "Season 9",
+  "start" : "01/26/2019",
+  "end"   : "12/31/2019",
+  "events": {
+    "spring": {
+      "name" : "Spring Split",
+      "start": "01/26/2019",
+      "end"  : "03/17/2019",
+      "file" : "na_s9s1_matches"
+    }
+  }
+}
