@@ -2,6 +2,6 @@
   "region"   : "North America",
   "shortname": "NA",
   "seasons"  : {
-    "2019": "season9"
+    "2019": "na_season9"
   }
 }
