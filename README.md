@@ -7,7 +7,7 @@ It is injested by the [Syqen DataInjester](https://github.com/matrixsenpai/syqen
 - [ ] International
 - [ ] North America (NA)
   - [ ] League Championship Series (LCS)
-    - [ ] 2019 Spring
+    - [x] 2019 Spring
     - [ ] 2018 Spring/Summer
     - [ ] 2017 Spring/Summer
     - [ ] 2016 Spring/Summer
