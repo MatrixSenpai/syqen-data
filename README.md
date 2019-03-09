@@ -1,7 +1,6 @@
 # Syqen Data
 
 This repository contains all the data used by [Syqen](https://github.com/matrixsenpai/Syqen).
-It is injested by the [Syqen DataInjester](https://github.com/matrixsenpai/syqen-datainjester).
 
 ## Contents
 - [ ] International
