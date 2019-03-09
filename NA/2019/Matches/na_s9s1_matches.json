@@ -504,7 +504,7 @@
         "blueTeamWins": 1,
 
         "redTeam"     : "OPT",
-        "redTeamWins" : 1,
+        "redTeamWins" : 0,
 
         "season"      : 2019,
         "event"       : "Spring Split",
@@ -832,11 +832,11 @@
   "6": {
     "1": [
       {
-        "blueTeam"    : "TSM",
+        "blueTeam"    : "CG",
         "blueTeamWins": 0,
 
-        "redTeam"     : "FOX",
-        "redTeamWins" : 0,
+        "redTeam"     : "100",
+        "redTeamWins" : 1,
 
         "season"      : 9,
         "event"       : "Spring Split",
@@ -848,10 +848,10 @@
         "gameTime"    : "03/02/2019 14"
       },
       {
-        "blueTeam"    : "GGS",
-        "blueTeamWins": 0,
+        "blueTeam"    : "TSM",
+        "blueTeamWins": 1,
 
-        "redTeam"     : "C9",
+        "redTeam"     : "FOX",
         "redTeamWins" : 0,
 
         "season"      : 9,
@@ -864,11 +864,11 @@
         "gameTime"    : "03/02/2019 15"
       },
       {
-        "blueTeam"    : "CLG",
+        "blueTeam"    : "GGS",
         "blueTeamWins": 0,
 
-        "redTeam"     : "FLY",
-        "redTeamWins" : 0,
+        "redTeam"     : "C9",
+        "redTeamWins" : 1,
 
         "season"      : 9,
         "event"       : "Spring Split",
@@ -880,10 +880,10 @@
         "gameTime"    : "03/02/2019 16"
       },
       {
-        "blueTeam"    : "OPT",
-        "blueTeamWins": 0,
+        "blueTeam"    : "CLG",
+        "blueTeamWins": 1,
 
-        "redTeam"     : "TL",
+        "redTeam"     : "FLY",
         "redTeamWins" : 0,
 
         "season"      : 9,
@@ -896,11 +896,11 @@
         "gameTime"    : "03/02/2019 17"
       },
       {
-        "blueTeam"    : "CG",
+        "blueTeam"    : "OPT",
         "blueTeamWins": 0,
 
-        "redTeam"     : "100",
-        "redTeamWins" : 0,
+        "redTeam"     : "TL",
+        "redTeamWins" : 1,
 
         "season"      : 9,
         "event"       : "Spring Split",
@@ -914,11 +914,11 @@
     ],
     "2": [
       {
-        "blueTeam"    : "FLY",
+        "blueTeam"    : "FOX",
         "blueTeamWins": 0,
 
-        "redTeam"     : "OPT",
-        "redTeamWins" : 0,
+        "redTeam"     : "CG",
+        "redTeamWins" : 1,
 
         "season"      : 9,
         "event"       : "Spring Split",
@@ -930,11 +930,11 @@
         "gameTime"    : "03/03/2019 12"
       },
       {
-        "blueTeam"    : "C9",
+        "blueTeam"    : "100",
         "blueTeamWins": 0,
 
-        "redTeam"     : "TSM",
-        "redTeamWins" : 0,
+        "redTeam"     : "GGS",
+        "redTeamWins" : 1,
 
         "season"      : 9,
         "event"       : "Spring Split",
@@ -946,10 +946,10 @@
         "gameTime"    : "03/03/2019 13"
       },
       {
-        "blueTeam"    : "TL",
-        "blueTeamWins": 0,
+        "blueTeam"    : "C9",
+        "blueTeamWins": 1,
 
-        "redTeam"     : "CLG",
+        "redTeam"     : "TSM",
         "redTeamWins" : 0,
 
         "season"      : 9,
@@ -962,10 +962,10 @@
         "gameTime"    : "03/03/2019 14"
       },
       {
-        "blueTeam"    : "100",
-        "blueTeamWins": 0,
+        "blueTeam"    : "TL",
+        "blueTeamWins": 1,
 
-        "redTeam"     : "GGS",
+        "redTeam"     : "CLG",
         "redTeamWins" : 0,
 
         "season"      : 9,
@@ -978,11 +978,11 @@
         "gameTime"    : "03/03/2019 15"
       },
       {
-        "blueTeam"    : "FOX",
+        "blueTeam"    : "FLY",
         "blueTeamWins": 0,
 
-        "redTeam"     : "CG",
-        "redTeamWins" : 0,
+        "redTeam"     : "OPT",
+        "redTeamWins" : 1,
 
         "season"      : 9,
         "event"       : "Spring Split",
