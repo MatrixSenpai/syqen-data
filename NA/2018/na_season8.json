@@ -1,0 +1,20 @@
+{
+  "year"  : 2018,
+  "name"  : "Season 8",
+  "start" : "01/20/2018",
+  "end"   : "09/09/2018",
+  "events": [
+    {
+      "name" : "Spring Split",
+      "start": "01/20/2018",
+      "end"  : "04/08/2019",
+      "file" : "na_s8s1_matches"
+    },
+    {
+      "name" : "Summer Split",
+      "start": "06/16/2018",
+      "end"  : "09/09/2018",
+      "file" : "na_s8s2_matches"
+    }
+  ]
+}

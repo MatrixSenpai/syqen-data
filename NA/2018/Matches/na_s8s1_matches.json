@@ -2,268 +2,300 @@
   "1": {
     "1": [
       {
-        "blueTeam"    : "",
-        "blueTeamWins": 0,
+        "blueTeam"    : "TL",
+        "blueTeamWins": 1,
 
-        "redTeam"     : "",
-        "redTeamWins" : ,
+        "redTeam"     : "TSM",
+        "redTeamWins" : 0,
 
         "season"      : 8,
-        "event"       : "",
+        "event"       : "Spring Split",
         "week"        : 1,
         "day"         : 1,
 
         "format"      : "bo1",
 
-        "gameTime"    : " 14"
+        "gameTime"    : "01/20/2018 14"
       },
       {
-        "blueTeam"    : "",
-        "blueTeamWins": 0,
+        "blueTeam"    : "100",
+        "blueTeamWins": 1,
 
-        "redTeam"     : "",
-        "redTeamWins" : ,
+        "redTeam"     : "OPT",
+        "redTeamWins" : 0,
 
         "season"      : 8,
-        "event"       : "",
+        "event"       : "Spring Split",
         "week"        : 1,
         "day"         : 1,
 
         "format"      : "bo1",
 
-        "gameTime"    : " 15"
+        "gameTime"    : "01/20/2018 15"
       },
       {
-        "blueTeam"    : "",
-        "blueTeamWins": 0,
+        "blueTeam"    : "CG",
+        "blueTeamWins": 1,
 
-        "redTeam"     : "",
-        "redTeamWins" : ,
+        "redTeam"     : "GGS",
+        "redTeamWins" : 0,
 
         "season"      : 8,
-        "event"       : "",
+        "event"       : "Spring Split",
         "week"        : 1,
         "day"         : 1,
 
         "format"      : "bo1",
 
-        "gameTime"    : " 16"
+        "gameTime"    : "01/20/2018 16"
       },
       {
-        "blueTeam"    : "",
-        "blueTeamWins": 0,
+        "blueTeam"    : "FOX",
+        "blueTeamWins": 1,
 
-        "redTeam"     : "",
-        "redTeamWins" : ,
+        "redTeam"     : "FLY",
+        "redTeamWins" : 0,
 
         "season"      : 8,
-        "event"       : "",
+        "event"       : "Spring Split",
         "week"        : 1,
         "day"         : 1,
 
         "format"      : "bo1",
 
-        "gameTime"    : " 17"
+        "gameTime"    : "01/20/2018 17"
       },
       {
-        "blueTeam"    : "",
+        "blueTeam"    : "CLG",
         "blueTeamWins": 0,
 
-        "redTeam"     : "",
-        "redTeamWins" : ,
+        "redTeam"     : "C9",
+        "redTeamWins" : 1,
 
         "season"      : 8,
-        "event"       : "",
+        "event"       : "Spring Split",
         "week"        : 1,
         "day"         : 1,
 
         "format"      : "bo1",
 
-        "gameTime"    : " 18"
+        "gameTime"    : "01/20/2018 18"
       },
     ],
     "2": [
       {
-        "blueTeam"    : "",
+        "blueTeam"    : "OPT",
         "blueTeamWins": 0,
 
-        "redTeam"     : "",
-        "redTeamWins" : ,
+        "redTeam"     : "TL",
+        "redTeamWins" : 1,
 
         "season"      : 8,
-        "event"       : "",
+        "event"       : "Spring Split",
         "week"        : 1,
         "day"         : 2,
 
         "format"      : "bo1",
 
-        "gameTime"    : " 12"
+        "gameTime"    : "01/21/2018 12"
       },
       {
-        "blueTeam"    : "",
-        "blueTeamWins": 0,
+        "blueTeam"    : "FLY",
+        "blueTeamWins": 1,
 
-        "redTeam"     : "",
-        "redTeamWins" : ,
+        "redTeam"     : "TSM",
+        "redTeamWins" : 0,
 
         "season"      : 8,
-        "event"       : "",
+        "event"       : "Spring Split",
         "week"        : 1,
         "day"         : 2,
 
         "format"      : "bo1",
 
-        "gameTime"    : " 13"
+        "gameTime"    : "01/21/2018 13"
       },
       {
-        "blueTeam"    : "",
+        "blueTeam"    : "CLG",
         "blueTeamWins": 0,
 
-        "redTeam"     : "",
-        "redTeamWins" : ,
+        "redTeam"     : "100",
+        "redTeamWins" : 1,
 
         "season"      : 8,
-        "event"       : "",
+        "event"       : "Spring Split",
         "week"        : 1,
         "day"         : 2,
 
         "format"      : "bo1",
 
-        "gameTime"    : " 14"
+        "gameTime"    : "01/21/2018 14"
       },
       {
-        "blueTeam"    : "",
+        "blueTeam"    : "GGS",
         "blueTeamWins": 0,
 
-        "redTeam"     : "",
-        "redTeamWins" : ,
+        "redTeam"     : "C9",
+        "redTeamWins" : 1,
 
         "season"      : 8,
-        "event"       : "",
+        "event"       : "Spring Split",
         "week"        : 1,
         "day"         : 2,
 
         "format"      : "bo1",
 
-        "gameTime"    : " 15"
+        "gameTime"    : "01/21/2018 15"
       },
       {
-        "blueTeam"    : "",
-        "blueTeamWins": 0,
+        "blueTeam"    : "FOX",
+        "blueTeamWins": 1,
 
-        "redTeam"     : "",
-        "redTeamWins" : ,
+        "redTeam"     : "CG",
+        "redTeamWins" : 0,
 
         "season"      : 8,
-        "event"       : "",
+        "event"       : "Spring Split",
         "week"        : 1,
         "day"         : 2,
 
         "format"      : "bo1",
 
-        "gameTime"    : " 16"
+        "gameTime"    : "01/21/2018 16"
       },
     ]
   },
   "2": {
     "1": [
       {
-        "blueTeam"    : "",
-        "blueTeamWins": 0,
+        "blueTeam"    : "CG",
+        "blueTeamWins": 1,
 
-        "redTeam"     : "",
-        "redTeamWins" : ,
+        "redTeam"     : "CLG",
+        "redTeamWins" : 0,
 
         "season"      : 8,
-        "event"       : "",
+        "event"       : "Spring Split",
         "week"        : 2,
         "day"         : 1,
 
         "format"      : "bo1",
 
-        "gameTime"    : " 14"
+        "gameTime"    : "01/27/2018 14"
       },
       {
-        "blueTeam"    : "",
-        "blueTeamWins": 0,
+        "blueTeam"    : "TSM",
+        "blueTeamWins": 1,
 
-        "redTeam"     : "",
-        "redTeamWins" : ,
+        "redTeam"     : "OPT",
+        "redTeamWins" : 0,
 
         "season"      : 8,
-        "event"       : "",
+        "event"       : "Spring Split",
         "week"        : 2,
         "day"         : 1,
 
         "format"      : "bo1",
 
-        "gameTime"    : " 15"
+        "gameTime"    : "01/27/2018 15"
       },
       {
-        "blueTeam"    : "",
+        "blueTeam"    : "C9",
         "blueTeamWins": 0,
 
-        "redTeam"     : "",
-        "redTeamWins" : ,
+        "redTeam"     : "FOX",
+        "redTeamWins" : 1,
 
         "season"      : 8,
-        "event"       : "",
+        "event"       : "Spring Split",
         "week"        : 2,
         "day"         : 1,
 
         "format"      : "bo1",
 
-        "gameTime"    : " 16"
+        "gameTime"    : "01/27/2018 16"
       },
       {
-        "blueTeam"    : "",
-        "blueTeamWins": 0,
+        "blueTeam"    : "100",
+        "blueTeamWins": 1,
 
-        "redTeam"     : "",
-        "redTeamWins" : ,
+        "redTeam"     : "TL",
+        "redTeamWins" : 0,
 
         "season"      : 8,
-        "event"       : "",
+        "event"       : "Spring Split",
         "week"        : 2,
         "day"         : 1,
 
         "format"      : "bo1",
 
-        "gameTime"    : " 17"
+        "gameTime"    : "01/27/2018 17"
       },
       {
-        "blueTeam"    : "",
+        "blueTeam"    : "GGS",
         "blueTeamWins": 0,
 
-        "redTeam"     : "",
-        "redTeamWins" : ,
+        "redTeam"     : "FLY",
+        "redTeamWins" : 1,
 
         "season"      : 8,
-        "event"       : "",
+        "event"       : "Spring Split",
         "week"        : 2,
         "day"         : 1,
 
         "format"      : "bo1",
 
-        "gameTime"    : " 18"
+        "gameTime"    : "01/27/2018 18"
       },
     ],
     "2": [
       {
-        "blueTeam"    : "",
-        "blueTeamWins": 0,
+        "blueTeam"    : "FOX",
+        "blueTeamWins": 1,
 
-        "redTeam"     : "",
-        "redTeamWins" : ,
+        "redTeam"     : "TSM",
+        "redTeamWins" : 0,
 
         "season"      : 8,
-        "event"       : "",
+        "event"       : "Spring Split",
         "week"        : 2,
         "day"         : 2,
 
         "format"      : "bo1",
 
-        "gameTime"    : " 12"
+        "gameTime"    : "01/28/2018 12"
+      },
+      {
+        "blueTeam"    : "C9",
+        "blueTeamWins": 1,
+
+        "redTeam"     : "100",
+        "redTeamWins" : 0,
+
+        "season"      : 8,
+        "event"       : "Spring Split",
+        "week"        : 2,
+        "day"         : 2,
+
+        "format"      : "bo1",
+
+        "gameTime"    : "01/28/2018 13"
+      },
+      {
+        "blueTeam"    : "OPT",
+        "blueTeamWins": 1,
+
+        "redTeam"     : "FLY",
+        "redTeamWins" : 0,
+
+        "season"      : 8,
+        "event"       : "Spring Split",
+        "week"        : 2,
+        "day"         : 2,
+
+        "format"      : "bo1",
+
+        "gameTime"    : "01/28/2018 14"
       },
       {
         "blueTeam"    : "",
@@ -273,39 +305,7 @@
         "redTeamWins" : ,
 
         "season"      : 8,
-        "event"       : "",
-        "week"        : 2,
-        "day"         : 2,
-
-        "format"      : "bo1",
-
-        "gameTime"    : " 13"
-      },
-      {
-        "blueTeam"    : "",
-        "blueTeamWins": 0,
-
-        "redTeam"     : "",
-        "redTeamWins" : ,
-
-        "season"      : 8,
-        "event"       : "",
-        "week"        : 2,
-        "day"         : 2,
-
-        "format"      : "bo1",
-
-        "gameTime"    : " 14"
-      },
-      {
-        "blueTeam"    : "",
-        "blueTeamWins": 0,
-
-        "redTeam"     : "",
-        "redTeamWins" : ,
-
-        "season"      : 8,
-        "event"       : "",
+        "event"       : "Spring Split",
         "week"        : 2,
         "day"         : 2,
 
@@ -321,7 +321,7 @@
         "redTeamWins" : ,
 
         "season"      : 8,
-        "event"       : "",
+        "event"       : "Spring Split",
         "week"        : 2,
         "day"         : 2,
 
@@ -341,7 +341,7 @@
         "redTeamWins" : ,
 
         "season"      : 8,
-        "event"       : "",
+        "event"       : "Spring Split",
         "week"        : 3,
         "day"         : 1,
 
@@ -357,7 +357,7 @@
         "redTeamWins" : ,
 
         "season"      : 8,
-        "event"       : "",
+        "event"       : "Spring Split",
         "week"        : 3,
         "day"         : 1,
 
@@ -373,7 +373,7 @@
         "redTeamWins" : ,
 
         "season"      : 8,
-        "event"       : "",
+        "event"       : "Spring Split",
         "week"        : 3,
         "day"         : 1,
 
@@ -389,7 +389,7 @@
         "redTeamWins" : ,
 
         "season"      : 8,
-        "event"       : "",
+        "event"       : "Spring Split",
         "week"        : 3,
         "day"         : 1,
 
@@ -405,7 +405,7 @@
         "redTeamWins" : ,
 
         "season"      : 8,
-        "event"       : "",
+        "event"       : "Spring Split",
         "week"        : 3,
         "day"         : 1,
 
@@ -423,7 +423,7 @@
         "redTeamWins" : ,
 
         "season"      : 8,
-        "event"       : "",
+        "event"       : "Spring Split",
         "week"        : 3,
         "day"         : 2,
 
@@ -439,7 +439,7 @@
         "redTeamWins" : ,
 
         "season"      : 8,
-        "event"       : "",
+        "event"       : "Spring Split",
         "week"        : 3,
         "day"         : 2,
 
@@ -455,7 +455,7 @@
         "redTeamWins" : ,
 
         "season"      : 8,
-        "event"       : "",
+        "event"       : "Spring Split",
         "week"        : 3,
         "day"         : 2,
 
@@ -471,7 +471,7 @@
         "redTeamWins" : ,
 
         "season"      : 8,
-        "event"       : "",
+        "event"       : "Spring Split",
         "week"        : 3,
         "day"         : 2,
 
@@ -487,7 +487,7 @@
         "redTeamWins" : ,
 
         "season"      : 8,
-        "event"       : "",
+        "event"       : "Spring Split",
         "week"        : 3,
         "day"         : 2,
 
@@ -507,7 +507,7 @@
         "redTeamWins" : ,
 
         "season"      : 8,
-        "event"       : "",
+        "event"       : "Spring Split",
         "week"        : 4,
         "day"         : 1,
 
@@ -523,7 +523,7 @@
         "redTeamWins" : ,
 
         "season"      : 8,
-        "event"       : "",
+        "event"       : "Spring Split",
         "week"        : 4,
         "day"         : 1,
 
@@ -539,7 +539,7 @@
         "redTeamWins" : ,
 
         "season"      : 8,
-        "event"       : "",
+        "event"       : "Spring Split",
         "week"        : 4,
         "day"         : 1,
 
@@ -555,7 +555,7 @@
         "redTeamWins" : ,
 
         "season"      : 8,
-        "event"       : "",
+        "event"       : "Spring Split",
         "week"        : 4,
         "day"         : 1,
 
@@ -571,7 +571,7 @@
         "redTeamWins" : ,
 
         "season"      : 8,
-        "event"       : "",
+        "event"       : "Spring Split",
         "week"        : 4,
         "day"         : 1,
 
@@ -589,7 +589,7 @@
         "redTeamWins" : ,
 
         "season"      : 8,
-        "event"       : "",
+        "event"       : "Spring Split",
         "week"        : 4,
         "day"         : 2,
 
@@ -605,7 +605,7 @@
         "redTeamWins" : ,
 
         "season"      : 8,
-        "event"       : "",
+        "event"       : "Spring Split",
         "week"        : 4,
         "day"         : 2,
 
@@ -621,7 +621,7 @@
         "redTeamWins" : ,
 
         "season"      : 8,
-        "event"       : "",
+        "event"       : "Spring Split",
         "week"        : 4,
         "day"         : 2,
 
@@ -637,7 +637,7 @@
         "redTeamWins" : ,
 
         "season"      : 8,
-        "event"       : "",
+        "event"       : "Spring Split",
         "week"        : 4,
         "day"         : 2,
 
@@ -653,7 +653,7 @@
         "redTeamWins" : ,
 
         "season"      : 8,
-        "event"       : "",
+        "event"       : "Spring Split",
         "week"        : 4,
         "day"         : 2,
 
@@ -673,7 +673,7 @@
         "redTeamWins" : ,
 
         "season"      : 8,
-        "event"       : "",
+        "event"       : "Spring Split",
         "week"        : 5,
         "day"         : 1,
 
@@ -689,7 +689,7 @@
         "redTeamWins" : ,
 
         "season"      : 8,
-        "event"       : "",
+        "event"       : "Spring Split",
         "week"        : 5,
         "day"         : 1,
 
@@ -705,7 +705,7 @@
         "redTeamWins" : ,
 
         "season"      : 8,
-        "event"       : "",
+        "event"       : "Spring Split",
         "week"        : 5,
         "day"         : 1,
 
@@ -721,7 +721,7 @@
         "redTeamWins" : ,
 
         "season"      : 8,
-        "event"       : "",
+        "event"       : "Spring Split",
         "week"        : 5,
         "day"         : 1,
 
@@ -737,7 +737,7 @@
         "redTeamWins" : ,
 
         "season"      : 8,
-        "event"       : "",
+        "event"       : "Spring Split",
         "week"        : 5,
         "day"         : 1,
 
@@ -755,7 +755,7 @@
         "redTeamWins" : ,
 
         "season"      : 8,
-        "event"       : "",
+        "event"       : "Spring Split",
         "week"        : 5,
         "day"         : 2,
 
@@ -771,7 +771,7 @@
         "redTeamWins" : ,
 
         "season"      : 8,
-        "event"       : "",
+        "event"       : "Spring Split",
         "week"        : 5,
         "day"         : 2,
 
@@ -787,7 +787,7 @@
         "redTeamWins" : ,
 
         "season"      : 8,
-        "event"       : "",
+        "event"       : "Spring Split",
         "week"        : 5,
         "day"         : 2,
 
@@ -803,7 +803,7 @@
         "redTeamWins" : ,
 
         "season"      : 8,
-        "event"       : "",
+        "event"       : "Spring Split",
         "week"        : 5,
         "day"         : 2,
 
@@ -819,7 +819,7 @@
         "redTeamWins" : ,
 
         "season"      : 8,
-        "event"       : "",
+        "event"       : "Spring Split",
         "week"        : 5,
         "day"         : 2,
 
@@ -839,7 +839,7 @@
         "redTeamWins" : ,
 
         "season"      : 8,
-        "event"       : "",
+        "event"       : "Spring Split",
         "week"        : 6,
         "day"         : 1,
 
@@ -855,7 +855,7 @@
         "redTeamWins" : ,
 
         "season"      : 8,
-        "event"       : "",
+        "event"       : "Spring Split",
         "week"        : 6,
         "day"         : 1,
 
@@ -871,7 +871,7 @@
         "redTeamWins" : ,
 
         "season"      : 8,
-        "event"       : "",
+        "event"       : "Spring Split",
         "week"        : 6,
         "day"         : 1,
 
@@ -887,7 +887,7 @@
         "redTeamWins" : ,
 
         "season"      : 8,
-        "event"       : "",
+        "event"       : "Spring Split",
         "week"        : 6,
         "day"         : 1,
 
@@ -903,7 +903,7 @@
         "redTeamWins" : ,
 
         "season"      : 8,
-        "event"       : "",
+        "event"       : "Spring Split",
         "week"        : 6,
         "day"         : 1,
 
@@ -921,7 +921,7 @@
         "redTeamWins" : ,
 
         "season"      : 8,
-        "event"       : "",
+        "event"       : "Spring Split",
         "week"        : 6,
         "day"         : 2,
 
@@ -937,7 +937,7 @@
         "redTeamWins" : ,
 
         "season"      : 8,
-        "event"       : "",
+        "event"       : "Spring Split",
         "week"        : 6,
         "day"         : 2,
 
@@ -953,7 +953,7 @@
         "redTeamWins" : ,
 
         "season"      : 8,
-        "event"       : "",
+        "event"       : "Spring Split",
         "week"        : 6,
         "day"         : 2,
 
@@ -969,7 +969,7 @@
         "redTeamWins" : ,
 
         "season"      : 8,
-        "event"       : "",
+        "event"       : "Spring Split",
         "week"        : 6,
         "day"         : 2,
 
@@ -985,7 +985,7 @@
         "redTeamWins" : ,
 
         "season"      : 8,
-        "event"       : "",
+        "event"       : "Spring Split",
         "week"        : 6,
         "day"         : 2,
 
@@ -1005,7 +1005,7 @@
         "redTeamWins" : ,
 
         "season"      : 8,
-        "event"       : "",
+        "event"       : "Spring Split",
         "week"        : 7,
         "day"         : 1,
 
@@ -1021,7 +1021,7 @@
         "redTeamWins" : ,
 
         "season"      : 8,
-        "event"       : "",
+        "event"       : "Spring Split",
         "week"        : 7,
         "day"         : 1,
 
@@ -1037,7 +1037,7 @@
         "redTeamWins" : ,
 
         "season"      : 8,
-        "event"       : "",
+        "event"       : "Spring Split",
         "week"        : 7,
         "day"         : 1,
 
@@ -1053,7 +1053,7 @@
         "redTeamWins" : ,
 
         "season"      : 8,
-        "event"       : "",
+        "event"       : "Spring Split",
         "week"        : 7,
         "day"         : 1,
 
@@ -1069,7 +1069,7 @@
         "redTeamWins" : ,
 
         "season"      : 8,
-        "event"       : "",
+        "event"       : "Spring Split",
         "week"        : 7,
         "day"         : 1,
 
@@ -1087,7 +1087,7 @@
         "redTeamWins" : ,
 
         "season"      : 8,
-        "event"       : "",
+        "event"       : "Spring Split",
         "week"        : 7,
         "day"         : 2,
 
@@ -1103,7 +1103,7 @@
         "redTeamWins" : ,
 
         "season"      : 8,
-        "event"       : "",
+        "event"       : "Spring Split",
         "week"        : 7,
         "day"         : 2,
 
@@ -1119,7 +1119,7 @@
         "redTeamWins" : ,
 
         "season"      : 8,
-        "event"       : "",
+        "event"       : "Spring Split",
         "week"        : 7,
         "day"         : 2,
 
@@ -1135,7 +1135,7 @@
         "redTeamWins" : ,
 
         "season"      : 8,
-        "event"       : "",
+        "event"       : "Spring Split",
         "week"        : 7,
         "day"         : 2,
 
@@ -1151,7 +1151,7 @@
         "redTeamWins" : ,
 
         "season"      : 8,
-        "event"       : "",
+        "event"       : "Spring Split",
         "week"        : 7,
         "day"         : 2,
 
@@ -1171,7 +1171,7 @@
         "redTeamWins" : ,
 
         "season"      : 8,
-        "event"       : "",
+        "event"       : "Spring Split",
         "week"        : 8,
         "day"         : 1,
 
@@ -1187,7 +1187,7 @@
         "redTeamWins" : ,
 
         "season"      : 8,
-        "event"       : "",
+        "event"       : "Spring Split",
         "week"        : 8,
         "day"         : 1,
 
@@ -1203,7 +1203,7 @@
         "redTeamWins" : ,
 
         "season"      : 8,
-        "event"       : "",
+        "event"       : "Spring Split",
         "week"        : 8,
         "day"         : 1,
 
@@ -1219,7 +1219,7 @@
         "redTeamWins" : ,
 
         "season"      : 8,
-        "event"       : "",
+        "event"       : "Spring Split",
         "week"        : 8,
         "day"         : 1,
 
@@ -1235,7 +1235,7 @@
         "redTeamWins" : ,
 
         "season"      : 8,
-        "event"       : "",
+        "event"       : "Spring Split",
         "week"        : 8,
         "day"         : 1,
 
@@ -1253,7 +1253,7 @@
         "redTeamWins" : ,
 
         "season"      : 8,
-        "event"       : "",
+        "event"       : "Spring Split",
         "week"        : 8,
         "day"         : 2,
 
@@ -1269,7 +1269,7 @@
         "redTeamWins" : ,
 
         "season"      : 8,
-        "event"       : "",
+        "event"       : "Spring Split",
         "week"        : 8,
         "day"         : 2,
 
@@ -1285,7 +1285,7 @@
         "redTeamWins" : ,
 
         "season"      : 8,
-        "event"       : "",
+        "event"       : "Spring Split",
         "week"        : 8,
         "day"         : 2,
 
@@ -1301,7 +1301,7 @@
         "redTeamWins" : ,
 
         "season"      : 8,
-        "event"       : "",
+        "event"       : "Spring Split",
         "week"        : 8,
         "day"         : 2,
 
@@ -1317,7 +1317,7 @@
         "redTeamWins" : ,
 
         "season"      : 8,
-        "event"       : "",
+        "event"       : "Spring Split",
         "week"        : 8,
         "day"         : 2,
 
@@ -1337,7 +1337,7 @@
         "redTeamWins" : ,
 
         "season"      : 8,
-        "event"       : "",
+        "event"       : "Spring Split",
         "week"        : 9,
         "day"         : 1,
 
@@ -1353,7 +1353,7 @@
         "redTeamWins" : ,
 
         "season"      : 8,
-        "event"       : "",
+        "event"       : "Spring Split",
         "week"        : 9,
         "day"         : 1,
 
@@ -1369,7 +1369,7 @@
         "redTeamWins" : ,
 
         "season"      : 8,
-        "event"       : "",
+        "event"       : "Spring Split",
         "week"        : 9,
         "day"         : 1,
 
@@ -1385,7 +1385,7 @@
         "redTeamWins" : ,
 
         "season"      : 8,
-        "event"       : "",
+        "event"       : "Spring Split",
         "week"        : 9,
         "day"         : 1,
 
@@ -1401,7 +1401,7 @@
         "redTeamWins" : ,
 
         "season"      : 8,
-        "event"       : "",
+        "event"       : "Spring Split",
         "week"        : 9,
         "day"         : 1,
 
@@ -1419,7 +1419,7 @@
         "redTeamWins" : ,
 
         "season"      : 8,
-        "event"       : "",
+        "event"       : "Spring Split",
         "week"        : 9,
         "day"         : 2,
 
@@ -1435,7 +1435,7 @@
         "redTeamWins" : ,
 
         "season"      : 8,
-        "event"       : "",
+        "event"       : "Spring Split",
         "week"        : 9,
         "day"         : 2,
 
@@ -1451,7 +1451,7 @@
         "redTeamWins" : ,
 
         "season"      : 8,
-        "event"       : "",
+        "event"       : "Spring Split",
         "week"        : 9,
         "day"         : 2,
 
@@ -1467,7 +1467,7 @@
         "redTeamWins" : ,
 
         "season"      : 8,
-        "event"       : "",
+        "event"       : "Spring Split",
         "week"        : 9,
         "day"         : 2,
 
@@ -1483,7 +1483,7 @@
         "redTeamWins" : ,
 
         "season"      : 8,
-        "event"       : "",
+        "event"       : "Spring Split",
         "week"        : 9,
         "day"         : 2,
 
